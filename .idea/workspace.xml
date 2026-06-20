@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e05f6c8a-71b1-44ec-a06a-80753c71658b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bit_manipulation/question/DividewithoutMulDivMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/Largest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/check_array_sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/left_roteteByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/rm_duplicate_fr_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/sec_min_N_max.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +54,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FindTwoNumber_oddNumber.executor": "Run",
+    "Application.Largest_Element.executor": "Run",
+    "Application.check_array_sorted.executor": "Run",
     "Application.check_even_odd.executor": "Run",
     "Application.check_power.executor": "Run",
     "Application.check_solution.executor": "Run",
     "Application.count_set_bit.executor": "Run",
+    "Application.left_roteteByOne.executor": "Run",
+    "Application.rm_duplicate_fr_sorted_arr.executor": "Run",
+    "Application.sec_min_N_max.executor": "Run",
     "Application.solution.executor": "Run",
     "Application.swap_without_third_var.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -67,13 +76,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindTwoNumber_oddNumber">
-    <configuration name="FindTwoNumber_oddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.question.FindTwoNumber_oddNumber" />
+  <component name="RunManager" selected="Application.left_roteteByOne">
+    <configuration name="Largest_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.Largest_Element" />
       <module name="striver-sheet-dsa-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation.question.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="check_even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.introduction.check_even_odd" />
+    <configuration name="check_array_sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.check_array_sorted" />
       <module name="striver-sheet-dsa-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation.introduction.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="check_power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.introduction.check_power" />
+    <configuration name="left_roteteByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.left_roteteByOne" />
       <module name="striver-sheet-dsa-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation.introduction.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_set_bit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.introduction.count_set_bit" />
+    <configuration name="rm_duplicate_fr_sorted_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.rm_duplicate_fr_sorted_arr" />
       <module name="striver-sheet-dsa-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation.introduction.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swap_without_third_var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.introduction.swap_without_third_var" />
+    <configuration name="sec_min_N_max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.sec_min_N_max" />
       <module name="striver-sheet-dsa-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation.introduction.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindTwoNumber_oddNumber" />
-        <item itemvalue="Application.swap_without_third_var" />
-        <item itemvalue="Application.count_set_bit" />
-        <item itemvalue="Application.check_power" />
-        <item itemvalue="Application.check_even_odd" />
+        <item itemvalue="Application.left_roteteByOne" />
+        <item itemvalue="Application.rm_duplicate_fr_sorted_arr" />
+        <item itemvalue="Application.check_array_sorted" />
+        <item itemvalue="Application.sec_min_N_max" />
+        <item itemvalue="Application.Largest_Element" />
       </list>
     </recent_temporary>
   </component>
